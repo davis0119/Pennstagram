@@ -5,10 +5,14 @@
     <string name="title_notifications">Notifications</string>
 
     <string name="my_name">Name</string>
+    <string name="my_date">Date</string>
     <string name="my_description">Description</string>
     <string name="camera_upload">Camera</string>
     <string name="gallery_upload">Gallery</string>
     <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="post">Post</string>
+    <string name="delete">Delete</string>
     <string name="title_activity_home2">Home2</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_main2">Main2Activity</string>
